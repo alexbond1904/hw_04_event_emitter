@@ -1,0 +1,11 @@
+# Project exclude paths
+/src/config/config.js
+/src/controllers/UserController.js
+/src/events/eventEmitter.js
+/src/models/user.js
+/src/routes/userRoutes.js
+/src/services/UserService.js
+/src/services/UserServiceImpl.js
+/src/utils/parseBody.js
+/src/app.js
+/src/server.js
